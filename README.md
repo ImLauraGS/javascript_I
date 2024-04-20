@@ -13,7 +13,7 @@ Objetivos:
 - Conocer y utilizar los operadores Rest y Spread.
 - Familiarizarse con los bucles y las transformaciones en arrays.
 
-BONUS: Se han creado test para cada ejecicio.
+BONUS: Se han creado test para cada ejecicio.<br>
 ![image](https://github.com/ImLauraGS/javascript_I/assets/135736563/1ac4468a-25e7-4278-a45a-b880d5438540)
 
 
@@ -65,6 +65,8 @@ ENGLISH V.
  * Familiarize yourself with loops and array transformations.
  
  BONUS: Tests have been created for each exercise.
+<br>
+![image](https://github.com/ImLauraGS/javascript_I/assets/135736563/1ac4468a-25e7-4278-a45a-b880d5438540)
 
 
 ## 💻 Technologies Used
