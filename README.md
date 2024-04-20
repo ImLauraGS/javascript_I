@@ -19,7 +19,7 @@ BONUS: Se han creado test para cada ejecicio.
 ## 💻 Tecnologias usadas
 
 - Javascript.
-- babel-jest": 29.7.0,
+- babel-jest: 29.7.0,
 - jest: 29.7.0
 
 ## ⚙️ Instalación
